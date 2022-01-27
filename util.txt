@@ -1,1 +1,1 @@
-utility functions for version 2 power
+utility functions for version 6
